@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: fe50d9d73e302654fbff836fbf1f540e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_jnt
+    100004: Foot_Left
+    100006: Foot_Left_jnt
+    100008: Foot_Right
+    100010: Foot_Right_jnt
+    100012: Hair_Bobs
+    100014: Hair_Ponytail
+    100016: Hair_Punk
+    100018: Hair_Top
+    100020: Hand_Left
+    100022: Hand_Left 1
+    100024: Hand_Right
+    100026: Hand_Right 1
+    100028: Hat
+    100030: Hat_Cap
+    100032: Hat_Cap_Backwards
+    100034: Hat_FireFighter
+    100036: Hat_Helmet
+    100038: Hat_Hobo
+    100040: Hat_Pimp
+    100042: Hat_Police
+    100044: Hat_Sheriff
+    100046: Head
+    100048: Head 1
+    100050: Hip_jnt
+    100052: LowerArm_Left
+    100054: LowerArm_Left_jnt
+    100056: LowerArm_Right
+    100058: LowerArm_Right_jnt
+    100060: LowerBody
+    100062: LowerLeg_Left
+    100064: LowerLeg_Left_jnt
+    100066: LowerLeg_Right
+    100068: LowerLeg_Right_jnt
+    100070: Prop_Backpack
+    100072: Prop_Bottle
+    100074: Prop_FireFighterPack
+    100076: Prop_HandGun
+    100078: Root_jnt
+    100080: //RootNode
+    100082: Toe_Left_jnt
+    100084: Toe_Right_jnt
+    100086: UpperArm_Left
+    100088: UpperArm_Left_jnt
+    100090: UpperArm_Right
+    100092: UpperArm_Right_jnt
+    100094: UpperLeg_Left
+    100096: UpperLeg_Left_jnt
+    100098: UpperLeg_Right
+    100100: UpperLeg_Right_jnt
+    400000: Body
+    400002: Body_jnt
+    400004: Foot_Left
+    400006: Foot_Left_jnt
+    400008: Foot_Right
+    400010: Foot_Right_jnt
+    400012: Hair_Bobs
+    400014: Hair_Ponytail
+    400016: Hair_Punk
+    400018: Hair_Top
+    400020: Hand_Left
+    400022: Hand_Left 1
+    400024: Hand_Right
+    400026: Hand_Right 1
+    400028: Hat
+    400030: Hat_Cap
+    400032: Hat_Cap_Backwards
+    400034: Hat_FireFighter
+    400036: Hat_Helmet
+    400038: Hat_Hobo
+    400040: Hat_Pimp
+    400042: Hat_Police
+    400044: Hat_Sheriff
+    400046: Head
+    400048: Head 1
+    400050: Hip_jnt
+    400052: LowerArm_Left
+    400054: LowerArm_Left_jnt
+    400056: LowerArm_Right
+    400058: LowerArm_Right_jnt
+    400060: LowerBody
+    400062: LowerLeg_Left
+    400064: LowerLeg_Left_jnt
+    400066: LowerLeg_Right
+    400068: LowerLeg_Right_jnt
+    400070: Prop_Backpack
+    400072: Prop_Bottle
+    400074: Prop_FireFighterPack
+    400076: Prop_HandGun
+    400078: Root_jnt
+    400080: //RootNode
+    400082: Toe_Left_jnt
+    400084: Toe_Right_jnt
+    400086: UpperArm_Left
+    400088: UpperArm_Left_jnt
+    400090: UpperArm_Right
+    400092: UpperArm_Right_jnt
+    400094: UpperLeg_Left
+    400096: UpperLeg_Left_jnt
+    400098: UpperLeg_Right
+    400100: UpperLeg_Right_jnt
+    2300000: Body
+    2300002: Foot_Left
+    2300004: Foot_Right
+    2300006: Hair_Bobs
+    2300008: Hair_Ponytail
+    2300010: Hair_Punk
+    2300012: Hair_Top
+    2300014: Hand_Left 1
+    2300016: Hand_Right 1
+    2300018: Hat_Cap
+    2300020: Hat_Cap_Backwards
+    2300022: Hat_FireFighter
+    2300024: Hat_Helmet
+    2300026: Hat_Hobo
+    2300028: Hat_Pimp
+    2300030: Hat_Police
+    2300032: Hat_Sheriff
+    2300034: Head 1
+    2300036: LowerArm_Left
+    2300038: LowerArm_Right
+    2300040: LowerBody
+    2300042: LowerLeg_Left
+    2300044: LowerLeg_Right
+    2300046: Prop_Backpack
+    2300048: Prop_Bottle
+    2300050: Prop_FireFighterPack
+    2300052: Prop_HandGun
+    2300054: UpperArm_Left
+    2300056: UpperArm_Right
+    2300058: UpperLeg_Left
+    2300060: UpperLeg_Right
+    3300000: Body
+    3300002: Foot_Left
+    3300004: Foot_Right
+    3300006: Hair_Bobs
+    3300008: Hair_Ponytail
+    3300010: Hair_Punk
+    3300012: Hair_Top
+    3300014: Hand_Left 1
+    3300016: Hand_Right 1
+    3300018: Hat_Cap
+    3300020: Hat_Cap_Backwards
+    3300022: Hat_FireFighter
+    3300024: Hat_Helmet
+    3300026: Hat_Hobo
+    3300028: Hat_Pimp
+    3300030: Hat_Police
+    3300032: Hat_Sheriff
+    3300034: Head 1
+    3300036: LowerArm_Left
+    3300038: LowerArm_Right
+    3300040: LowerBody
+    3300042: LowerLeg_Left
+    3300044: LowerLeg_Right
+    3300046: Prop_Backpack
+    3300048: Prop_Bottle
+    3300050: Prop_FireFighterPack
+    3300052: Prop_HandGun
+    3300054: UpperArm_Left
+    3300056: UpperArm_Right
+    3300058: UpperLeg_Left
+    3300060: UpperLeg_Right
+    4300000: Hat_Police
+    4300002: Hat_FireFighter
+    4300004: Hat_Cap_Backwards
+    4300006: Hat_Helmet
+    4300008: Hair_Bobs
+    4300010: Hair_Ponytail
+    4300012: Hair_Top
+    4300014: Hat_Pimp
+    4300016: Hair_Punk
+    4300018: Hat_Sheriff
+    4300020: Hat_Cap
+    4300022: Hat_Hobo
+    4300024: Head
+    4300026: Foot_Left
+    4300028: LowerLeg_Left
+    4300030: UpperLeg_Left
+    4300032: Foot_Right
+    4300034: LowerLeg_Right
+    4300036: UpperLeg_Right
+    4300038: LowerBody
+    4300040: Hand_Left
+    4300042: Prop_Bottle
+    4300044: Prop_HandGun
+    4300046: LowerArm_Left
+    4300048: UpperArm_Left
+    4300050: Hand_Right
+    4300052: LowerArm_Right
+    4300054: UpperArm_Right
+    4300056: Body
+    4300058: Prop_Backpack
+    4300060: Prop_FireFighterPack
+    7400000: Idle
+    7400002: Walk
+    7400004: Run
+    7400006: T-Pose
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: T-Pose
+      takeName: Take 001
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root_jnt
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
